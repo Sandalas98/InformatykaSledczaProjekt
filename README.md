@@ -1,4 +1,4 @@
-# InformatykaSledczaProjekt
+# Informatyka śledcza - projekt
 Kod projektu z Informatyki śledczej
 
 Tworzymy folder./mount/ i do niego wsadzamy luźno pliki i foldery
