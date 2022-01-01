@@ -1,6 +1,6 @@
 from docx2pdf import convert
 import os, pandas as pd
-import comtypes.client
+#import comtypes.client
 import sys, os
 
 def conv_2_pdf(path):

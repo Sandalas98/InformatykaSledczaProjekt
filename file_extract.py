@@ -19,6 +19,8 @@ def extract_files(path):
     except OSError as e:
         print('Folder analysis_dir nie istnieje, nie ma co usuwać.')
 
+
+    # Tworzenie folderów do których będą przypisywane różne pliki
     os.makedirs('./analysis_dir/docs')
     os.makedirs('./analysis_dir/images')
     os.makedirs('./analysis_dir/web_sites')
