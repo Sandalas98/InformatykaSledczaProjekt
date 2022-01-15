@@ -3,7 +3,7 @@ import os
 
 
 # Rozpoznaje system i użytkowników
-get_users.get_users('./mount')
+system, users = get_users.get_users('./mount')
 
 # Ekstrakcja plików :
 # Tu podać ścieżki do dysku (lub folderu z wypakowanym obrazem dyskowym):
